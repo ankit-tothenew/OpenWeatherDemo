@@ -1,0 +1,41 @@
+
+{
+	"buildFiles" : 
+	[
+		"/home/ttn/AndroidStudioProjects/OpenWeather/app/src/main/jni/CMakeLists.txt"
+	],
+	"cFileExtensions" : [ "c" ],
+	"cleanCommands" : 
+	[
+		"/home/ttn/Android/Sdk/cmake/3.6.3155560/bin/cmake --build /home/ttn/AndroidStudioProjects/OpenWeather/app/.externalNativeBuild/cmake/release/armeabi --target clean"
+	],
+	"libraries" : 
+	{
+		"hide_key-Release-armeabi" : 
+		{
+			"abi" : "armeabi",
+			"artifactName" : "hide_key",
+			"buildCommand" : "/home/ttn/Android/Sdk/cmake/3.6.3155560/bin/cmake --build /home/ttn/AndroidStudioProjects/OpenWeather/app/.externalNativeBuild/cmake/release/armeabi --target hide_key",
+			"buildType" : "release",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=armv5te-none-linux-androideabi --gcc-toolchain=/home/ttn/Android/Sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/linux-x86_64 --sysroot=/home/ttn/Android/Sdk/ndk-bundle/platforms/android-15/arch-arm -Dhide_key_EXPORTS  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv5te -mtune=xscale -msoft-float -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv5te -mtune=xscale -msoft-float -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -Os -DNDEBUG -Os -DNDEBUG  -fPIC      -c ",
+					"src" : "/home/ttn/AndroidStudioProjects/OpenWeather/app/src/main/jni/hide_key.c",
+					"workingDirectory" : "/home/ttn/AndroidStudioProjects/OpenWeather/app/.externalNativeBuild/cmake/release/armeabi"
+				}
+			],
+			"output" : "/home/ttn/AndroidStudioProjects/OpenWeather/app/build/intermediates/cmake/release/obj/armeabi/libhide_key.so",
+			"toolchain" : "642778763081407835"
+		}
+	},
+	"toolchains" : 
+	{
+		"642778763081407835" : 
+		{
+			"cCompilerExecutable" : "/home/ttn/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/bin/clang",
+			"cppCompilerExecutable" : "/home/ttn/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++"
+		}
+	}
+}

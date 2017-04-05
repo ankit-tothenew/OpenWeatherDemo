@@ -1,0 +1,3 @@
+/home/ttn/AndroidStudioProjects/OpenWeather/app/.externalNativeBuild/cmake/debug/armeabi/CMakeFiles/edit_cache.dir
+/home/ttn/AndroidStudioProjects/OpenWeather/app/.externalNativeBuild/cmake/debug/armeabi/CMakeFiles/rebuild_cache.dir
+/home/ttn/AndroidStudioProjects/OpenWeather/app/.externalNativeBuild/cmake/debug/armeabi/CMakeFiles/hide_key.dir

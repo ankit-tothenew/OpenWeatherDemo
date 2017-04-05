@@ -1,0 +1,14 @@
+Executable : /home/ttn/Android/Sdk/cmake/3.6.3155560/bin/cmake
+arguments : 
+-H/home/ttn/AndroidStudioProjects/OpenWeather/app/src/main/jni
+-B/home/ttn/AndroidStudioProjects/OpenWeather/app/.externalNativeBuild/cmake/release/arm64-v8a
+-GAndroid Gradle - Ninja
+-DANDROID_ABI=arm64-v8a
+-DANDROID_NDK=/home/ttn/Android/Sdk/ndk-bundle
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/home/ttn/AndroidStudioProjects/OpenWeather/app/build/intermediates/cmake/release/obj/arm64-v8a
+-DCMAKE_BUILD_TYPE=Release
+-DCMAKE_MAKE_PROGRAM=/home/ttn/Android/Sdk/cmake/3.6.3155560/bin/ninja
+-DCMAKE_TOOLCHAIN_FILE=/home/ttn/Android/Sdk/ndk-bundle/build/cmake/android.toolchain.cmake
+-DANDROID_PLATFORM=android-21
+jvmArgs : 
+

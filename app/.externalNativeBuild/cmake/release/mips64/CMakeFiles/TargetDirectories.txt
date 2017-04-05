@@ -1,0 +1,3 @@
+/home/ttn/AndroidStudioProjects/OpenWeather/app/.externalNativeBuild/cmake/release/mips64/CMakeFiles/edit_cache.dir
+/home/ttn/AndroidStudioProjects/OpenWeather/app/.externalNativeBuild/cmake/release/mips64/CMakeFiles/rebuild_cache.dir
+/home/ttn/AndroidStudioProjects/OpenWeather/app/.externalNativeBuild/cmake/release/mips64/CMakeFiles/hide_key.dir
